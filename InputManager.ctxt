@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InputManager
+comment1.params=
+comment1.target=InputManager()
+comment2.params=key
+comment2.target=void\ KeyPressed(java.lang.String)
+numComments=3
